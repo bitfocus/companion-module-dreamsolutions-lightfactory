@@ -1,0 +1,33 @@
+{
+    "name": "dreamsolutions-lightfactory",
+    "version": "0.1.0",
+    "api_version": "1.0.0",
+    "keywords": [
+      "LightFactory",
+      "Lighting",
+      "Dream Solutions",
+      "Light Factory"
+    ],
+    "manufacturer": "Dream Solutions",
+    "product": "LightFactory",
+    "shortname": "LightFactory",
+    "description": "Module to control LightFactory",
+    "homepage": "https://github.com/bitfocus/companion-module-dreamsolutions-lightfactory",
+    "bugs": {
+      "url": "https://github.com/bitfocus/companion-module-dreamsolutions-lightfactory/issues"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/bitfocus/companion-module-dreamsolutions-lightfactory.git"
+    },
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Shadow <thebotoftheshadow@gmail.com>",
+    "contributors": [],
+    "license": "MIT",
+    "dependencies": {
+
+    }
+  }
